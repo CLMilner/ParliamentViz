@@ -1,3 +1,5 @@
+#Any feedback or ideas for exapanding gratefully received
+
 import urllib.request, urllib.parse, urllib.error
 import json
 import ssl
